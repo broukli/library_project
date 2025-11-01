@@ -1,0 +1,19 @@
+# FastAPI и зависимости
+fastapi
+uvicorn[standard]
+
+# База данных
+sqlalchemy
+psycopg2-binary
+alembic
+
+# HTTP и клиенты
+httpx
+
+# Валидация и настройки
+pydantic
+pydantic-settings
+# Дополнительные утилиты
+python-dotenv
+python-multipart
+
